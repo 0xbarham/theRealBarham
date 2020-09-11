@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Ibrahim
 #### I am a Computer Engineering Technology student, I really enjoy learning new stuff relating to programming and computers.
-![I am a Computer Engineering Technology student, I really enjoy learning new stuff relating to programming and computers.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun this project allows you to create nice and simple GitHub projects to reach them whenever I need.
+![I am a Computer Engineering Technology student, I really enjoy learning new stuff relating to programming and computers.]
+I made this profile just for fun, to create nice and simple GitHub projects to reach them whenever I need.
 
 Skills: C / C++ / Python / C# / Arduino
 
